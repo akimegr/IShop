@@ -1,0 +1,224 @@
+10-Sep-2022 18:48:26.513 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.82
+10-Sep-2022 18:48:26.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 8 2022 21:26:07 UTC
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.82.0
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-15.0.2
+10-Sep-2022 18:48:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7-27
+10-Sep-2022 18:48:26.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Sep-2022 18:48:26.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 18:48:26.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 18:48:26.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Sep-2022 18:48:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Sep-2022 18:48:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Sep-2022 18:48:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Sep-2022 18:48:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Sep-2022 18:48:26.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\logging.properties
+10-Sep-2022 18:48:26.520 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Sep-2022 18:48:26.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Sep-2022 18:48:26.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Sep-2022 18:48:26.521 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=localhost:8000,server=y,suspend=n
+10-Sep-2022 18:48:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Sep-2022 18:48:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 18:48:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 18:48:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\temp
+10-Sep-2022 18:48:26.523 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-15.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files\maven\apache-maven-3.8.6\bin;C:\Windows\system32;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\akime\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\akime\AppData\Local\Programs\Python\Python39\;C:\Users\akime\AppData\Local\Microsoft\WindowsApps;C:\Users\akime\AppData\Local\atom\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\Users\akime\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\akime\.dotnet\tools;C:\Users\akime\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3.1\bin;;C:\Users\akime\AppData\Local\GitHubDesktop\bin;C:\Windows\system32;;C:\Program Files\Azure Data Studio\bin;.]
+10-Sep-2022 18:48:26.568 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Sep-2022 18:48:26.592 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 571 ms
+10-Sep-2022 18:48:26.643 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Sep-2022 18:48:26.643 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.82]
+10-Sep-2022 18:48:26.657 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\docs]
+10-Sep-2022 18:48:26.984 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\docs] has finished in [326] ms
+10-Sep-2022 18:48:26.984 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\examples]
+10-Sep-2022 18:48:27.458 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\examples] has finished in [474] ms
+10-Sep-2022 18:48:27.459 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\host-manager]
+10-Sep-2022 18:48:27.506 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\host-manager] has finished in [47] ms
+10-Sep-2022 18:48:27.507 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\manager]
+10-Sep-2022 18:48:27.558 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\manager] has finished in [51] ms
+10-Sep-2022 18:48:27.559 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\ROOT]
+10-Sep-2022 18:48:27.593 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\ROOT] has finished in [34] ms
+10-Sep-2022 18:48:27.597 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Sep-2022 18:48:27.654 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1061 ms
+10-Sep-2022 21:21:55.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.82
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 8 2022 21:26:07 UTC
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.82.0
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-15.0.2
+10-Sep-2022 21:21:55.371 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7-27
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\logging.properties
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Sep-2022 21:21:55.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=localhost:8000,server=y,suspend=n
+10-Sep-2022 21:21:55.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Sep-2022 21:21:55.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 21:21:55.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82
+10-Sep-2022 21:21:55.384 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\temp
+10-Sep-2022 21:21:55.384 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-15.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files\maven\apache-maven-3.8.6\bin;C:\Windows\system32;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\akime\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\akime\AppData\Local\Programs\Python\Python39\;C:\Users\akime\AppData\Local\Microsoft\WindowsApps;C:\Users\akime\AppData\Local\atom\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\Users\akime\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\akime\.dotnet\tools;C:\Users\akime\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3.1\bin;;C:\Users\akime\AppData\Local\GitHubDesktop\bin;C:\Windows\system32;;C:\Program Files\Azure Data Studio\bin;.]
+10-Sep-2022 21:21:55.464 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Sep-2022 21:21:55.509 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 871 ms
+10-Sep-2022 21:21:55.589 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Sep-2022 21:21:55.594 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.82]
+10-Sep-2022 21:21:55.624 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\Catalina\localhost\root.xml]
+10-Sep-2022 21:21:55.634 SEVERE [localhost-startStop-1] org.apache.tomcat.util.digester.Digester.fatalError Parse Fatal Error at line 1 column 2: The markup in the document preceding the root element must be well-formed.
+	org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 2; The markup in the document preceding the root element must be well-formed.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:862)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:541)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1513)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:631)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+10-Sep-2022 21:21:55.640 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\Catalina\localhost\root.xml]
+	org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 2; The markup in the document preceding the root element must be well-formed.
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1251)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1513)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:631)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+10-Sep-2022 21:21:55.694 SEVERE [localhost-startStop-1] org.apache.tomcat.util.digester.Digester.fatalError Parse Fatal Error at line 1 column 2: The markup in the document preceding the root element must be well-formed.
+	org.xml.sax.SAXParseException; systemId: file:/C:/Users/akime/OneDrive/Рабочий%20стол/IShop/apache-tomcat-8.5.82/apache-tomcat-8.5.82/conf/Catalina/localhost/root.xml; lineNumber: 1; columnNumber: 2; The markup in the document preceding the root element must be well-formed.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:862)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:541)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1496)
+		at org.apache.catalina.startup.ContextConfig.processContextConfig(ContextConfig.java:530)
+		at org.apache.catalina.startup.ContextConfig.contextConfig(ContextConfig.java:487)
+		at org.apache.catalina.startup.ContextConfig.init(ContextConfig.java:742)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:310)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:137)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:173)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+10-Sep-2022 21:21:55.694 SEVERE [localhost-startStop-1] org.apache.catalina.startup.ContextConfig.processContextConfig Parse error in context.xml for [/root]
+	org.xml.sax.SAXParseException; systemId: file:/C:/Users/akime/OneDrive/Рабочий%20стол/IShop/apache-tomcat-8.5.82/apache-tomcat-8.5.82/conf/Catalina/localhost/root.xml; lineNumber: 1; columnNumber: 2; The markup in the document preceding the root element must be well-formed.
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:204)
+		at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:178)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:400)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1471)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:862)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:605)
+		at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:541)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:888)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:824)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+		at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1224)
+		at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:635)
+		at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1496)
+		at org.apache.catalina.startup.ContextConfig.processContextConfig(ContextConfig.java:530)
+		at org.apache.catalina.startup.ContextConfig.contextConfig(ContextConfig.java:487)
+		at org.apache.catalina.startup.ContextConfig.init(ContextConfig.java:742)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:310)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:137)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:173)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+10-Sep-2022 21:21:55.702 SEVERE [localhost-startStop-1] org.apache.catalina.startup.ContextConfig.processContextConfig Occurred at line [1] column [2]
+10-Sep-2022 21:21:55.704 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to process either the global, per-host or context-specific context.xml file therefore the [/root] Context cannot be started.
+		at org.apache.catalina.startup.FailedContext.startInternal(FailedContext.java:200)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+10-Sep-2022 21:21:55.704 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\Catalina\localhost\root.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+		at java.base/java.lang.Thread.run(Thread.java:832)
+	Caused by: org.apache.catalina.LifecycleException: Failed to process either the global, per-host or context-specific context.xml file therefore the [/root] Context cannot be started.
+		at org.apache.catalina.startup.FailedContext.startInternal(FailedContext.java:200)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 9 more
+10-Sep-2022 21:21:55.704 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\conf\Catalina\localhost\root.xml] has finished in [80] ms
+10-Sep-2022 21:21:55.704 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\docs]
+10-Sep-2022 21:21:56.214 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\docs] has finished in [510] ms
+10-Sep-2022 21:21:56.214 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\examples]
+10-Sep-2022 21:21:57.027 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\examples] has finished in [812] ms
+10-Sep-2022 21:21:57.027 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\host-manager]
+10-Sep-2022 21:21:57.111 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\host-manager] has finished in [84] ms
+10-Sep-2022 21:21:57.111 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\manager]
+10-Sep-2022 21:21:57.190 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\manager] has finished in [79] ms
+10-Sep-2022 21:21:57.190 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\ROOT2]
+10-Sep-2022 21:21:57.233 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\akime\OneDrive\Рабочий стол\IShop\apache-tomcat-8.5.82\apache-tomcat-8.5.82\webapps\ROOT2] has finished in [43] ms
+10-Sep-2022 21:21:57.241 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Sep-2022 21:21:57.335 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1821 ms
+10-Sep-2022 21:39:13.330 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+10-Sep-2022 21:39:34.135 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+10-Sep-2022 21:39:56.595 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
